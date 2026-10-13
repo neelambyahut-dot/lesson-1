@@ -1,0 +1,7 @@
+print("i wake up in the morning")
+print("i brush and bath")
+print("i eat my food")
+print("i go to school")
+print("i come back from school")
+print("i eat my food")
+print("print i study maths 2hrs science 0.5hrs computer 0.5hrs 2+0.5+0.5",2+0.5+0.5 )
