@@ -6,3 +6,4 @@ C="coding"
 print("type of C",type(C))
 D=True
 print("type of d",type(D))
+
